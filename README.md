@@ -1,4 +1,3 @@
-# Blog frontend using bootstrap
+# bootstrap을 사용하여 블로그 프론트엔드 만들기
 
-- This project is for practicing bootstrap
-- You can understand how to use bootstrap by skimming through this code
+- bootstrap을 사용하면 빠르고 깔끔하게 블로그의 프론트엔드를 만들 수 있습니다.
